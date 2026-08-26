@@ -4,16 +4,29 @@
 
 Three assessment points per participant journey, each gating the next stage. Build as Kajabi native quizzes/forms where possible; use a typeform-style embed if branching logic exceeds Kajabi's native quiz builder.
 
-### Beginning Assessment (gates Tier 1 Module 1)
-Purpose: baseline + coach-matching (in addition to the eligibility scoring already done pre-enrollment).
-Sample questions:
+### Beginning Assessment (Product 1, Module 4 — gates track assignment and Tier access)
+Purpose: baseline + coach-matching (in addition to the eligibility scoring already done pre-enrollment). **As actually built in Kajabi, this is 4 separate lessons/assessments, not one combined form** — see `docs/14-lesson-content-orientation.md` Module 4 for the full participant-facing copy. Question banks below map to each:
+
+**Financial Assessment**
 1. On a scale of 1-5, how confident are you in managing a monthly budget?
 2. Have you reviewed a credit report in the last 12 months? (Y/N)
 3. Do you currently have a checking/savings account in consistent use? (Y/N)
+
+**Housing Assessment**
 4. What is your current housing status? (repeat/confirm from intake)
-5. Do you have a business idea or existing business? (Y/N, describe)
-6. What's the single biggest barrier standing between you and your goal today? (open text — coach reads this before first call)
-7. What does success look like for you in 6 months? (open text)
+5. Any current housing stability concerns? (open text)
+6. Is homeownership a goal, and on what general timeline?
+
+**Entrepreneur Assessment**
+7. Do you have a business idea or existing business? (Y/N, describe)
+8. Is your business already formed (LLC/EIN), or still just an idea?
+9. Any interest in construction, clean energy, or contractor work (Illinois Shines EEP/EEC)?
+
+**Economic Stability Goals** (synthesis lesson, completed after the above three)
+10. What's the single biggest barrier standing between you and your goal today? (open text — coach reads this before first call)
+11. What does success look like for you in 6 months? (open text)
+
+This synthesis lesson is what the coach uses to confirm the recommended Tier — the output feeds directly into Module 5 (Participant Action Plan).
 
 ### Midpoint Assessment (administered at Tier transition, e.g. end of Tier 1 / start of Tier 2)
 Purpose: confirm milestone completion, re-confirm readiness, catch anything that stalled.

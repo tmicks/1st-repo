@@ -7,15 +7,18 @@ Build as **4 Kajabi Products** (Content Categories inside each = Modules; Posts 
 
 ---
 
-## Product 1 — Economic Stability Service (Orientation)
+## Product 1 — Economic Stability Service
 
-*Purpose: onboard, set expectations, establish baseline before Tier 1 unlocks.*
+*Purpose: onboard, set expectations, establish baseline, assign track, and bookend program completion. This is the front-door product every participant starts in before moving into whichever Tier(s) fit their goals.*
 
-- **Welcome** — video from program director, what the Institute is, how the three tracks fit together
-- **Orientation** — how Kajabi works, how coaching works, how to reach your coach, community guidelines
-- **Program Expectations** — attendance/engagement expectations, milestone structure, certificate requirements, what happens if you fall behind
-- **Forms** — intake forms, consent/release, funding-source paperwork (embedded or linked to Airtable-fed forms — see `07-integration-architecture.md`)
-- **Assessment** — Beginning Assessment (see `09-certificates-and-assessments.md`) — gates access to Tier 1 Module 1
+**This structure reflects what's actually built in Kajabi** (6 modules, evolved during build-out from the original 4-module plan) — full lesson copy for every module below is in `docs/14-lesson-content-orientation.md`.
+
+- **Module 1 — Welcome**: Welcome to the Economic Stability Service · What This Program Is · What You Can Expect
+- **Module 2 — Orientation**: Program Expectations · How to Use Your Client Portal · Coaching & Support · How Progress Works
+- **Module 3 — Forms & Documentation**: Required Forms · Document Checklist · How to Submit Documents
+- **Module 4 — Beginning Assessment**: Financial Assessment · Housing Assessment · Entrepreneur Assessment · Economic Stability Goals — this is where track recommendation happens and the participant is routed to their starting Tier product
+- **Module 5 — Participant Action Plan**: Your Economic Stability Goals · Recommended Service Track · Your First 30-Day Action Plan · Preparing for Your Coaching Session — runs alongside the start of the participant's Tier product, not as a gate before it
+- **Module 6 — Program Completion & Next Steps**: Progress Review · Final Assessment · Next Steps · Continued Support · Economic Stability Certificate — the bookend module participants return to after finishing whichever Tier(s) their plan called for
 
 ---
 
