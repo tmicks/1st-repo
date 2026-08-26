@@ -26,5 +26,16 @@ This repo is the build-out package for launching the **Economic Stability Servic
 | [`docs/09-certificates-and-assessments.md`](docs/09-certificates-and-assessments.md) | Assessment question banks + certificate specs |
 | [`docs/10-phase2-roadmap.md`](docs/10-phase2-roadmap.md) | Economic Mobility Institute expansion academies |
 | [`docs/11-launch-checklist.md`](docs/11-launch-checklist.md) | Step-by-step build order to go live |
+| [`docs/12-kajabi-build-runbook.md`](docs/12-kajabi-build-runbook.md) | **Literal click-by-click instructions** — exact Kajabi menus, what to paste where |
+| [`docs/13-lesson-content-template.md`](docs/13-lesson-content-template.md) | Lesson content template + 2 fully worked example lessons, for scaling to the rest |
+| [`airtable-import/`](airtable-import/) | **Ready-to-import CSVs** for all 8 Airtable tables, plus field-type setup instructions |
 
-Start with `docs/00-overview.md`, then build in the order listed in `docs/11-launch-checklist.md`.
+## Fastest path to execution
+
+1. Read `docs/00-overview.md` for positioning.
+2. Import the base: `airtable-import/README.md` → import all 8 CSVs → fix field types per that doc's reference.
+3. Follow `docs/12-kajabi-build-runbook.md` phase by phase — it points to the exact content doc for each piece as you go.
+4. Use `docs/13-lesson-content-template.md` to scale lesson copy across all modules.
+5. Finish with `docs/11-launch-checklist.md` Phases 7-8 (soft launch → go live).
+
+This kit assumes you or a teammate is logged into your own Kajabi/Airtable/HubSpot accounts and pasting directly — no credentials are needed by anyone else to execute it.
