@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280"><rect width="900" height="280" fill="#0A0A0A"/><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6C766"/><stop offset="0.55" stop-color="#C9A227"/><stop offset="1" stop-color="#9C7A14"/></linearGradient></defs>
+<g transform="translate(55,45)" fill="none" stroke="url(#g)" stroke-width="16" stroke-linejoin="miter" stroke-linecap="square">
+ <path d="M10 10 V180 H70"/>
+ <path d="M70 180 L105 70 L140 150 L200 20"/>
+ <path d="M168 20 H200 V52" stroke-width="12"/>
+</g>
+<text x="300" y="148" textLength="530" lengthAdjust="spacingAndGlyphs" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="76" font-weight="800"><tspan fill="#FFFFFF">LEGACY</tspan><tspan fill="url(#g)" font-weight="400"> WORK</tspan></text>
+<text x="302" y="200" letter-spacing="8" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="600" fill="#C9A227" >OWN YOUR FUTURE</text>
+</svg>

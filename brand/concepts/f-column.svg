@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280"><rect width="900" height="280" fill="#0A0A0A"/><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6C766"/><stop offset="0.55" stop-color="#C9A227"/><stop offset="1" stop-color="#9C7A14"/></linearGradient></defs>
+<g transform="translate(95,35)" fill="url(#g)">
+ <rect x="0" y="0" width="130" height="14" rx="2"/>
+ <rect x="10" y="18" width="110" height="10" rx="2"/>
+ <rect x="22" y="34" width="12" height="140" rx="3"/>
+<rect x="44" y="34" width="12" height="140" rx="3"/>
+<rect x="66" y="34" width="12" height="140" rx="3"/>
+<rect x="88" y="34" width="12" height="140" rx="3"/>
+ <rect x="10" y="180" width="110" height="10" rx="2"/>
+ <rect x="0" y="194" width="130" height="14" rx="2"/>
+</g>
+<text x="300" y="130" textLength="540" lengthAdjust="spacingAndGlyphs" font-family="Playfair Display, Georgia, serif" font-size="76" font-weight="400" letter-spacing="12" fill="#FFFFFF">LEGACY WORK</text>
+<line x1="302" y1="158" x2="842" y2="158" stroke="url(#g)" stroke-width="1.5"/>
+<text x="302" letter-spacing="5" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="600" fill="#C9A227" y="196">FOUNDATIONS FOR GENERATIONS</text>
+</svg>
