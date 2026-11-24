@@ -7,7 +7,7 @@ def build(scale):
     def leaf2(x,y,ang,l=9,w=4.2,fill="url(#g)"): return base_leaf(x,y,ang,l*scale,w*scale,fill)
     import builtins
     g=globals(); old=g['leaf']; g['leaf']=leaf2
-    icon=wrap(E6_TREE+leaves_at(E6_TIPS)+midleaves(E6_MIDS)+fruits_at(E6_FRUIT))
+    icon=wrap(E6_TREE+leaves_at(E6_TIPS)+midleaves(E6_MIDS))
     g['leaf']=old
     return icon
 os.makedirs("../final2",exist_ok=True)
