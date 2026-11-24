@@ -8,7 +8,7 @@
     <text x="120" y="168" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="92" font-weight="700" fill="url(#g)" letter-spacing="-4">LW</text>
     <path d="M70 196 Q120 222 170 196" fill="none" stroke="url(#g)" stroke-width="3"/><circle cx="120" cy="214" r="4" fill="url(#g)"/>
   </g>
-  <text x="292" y="148" textLength="576" lengthAdjust="spacingAndGlyphs" font-family="Playfair Display, Georgia, serif" font-size="78" font-weight="700" letter-spacing="4"><tspan fill="#0A0A0A">LEGACY</tspan><tspan fill="url(#g)" font-weight="400"> WORKS</tspan></text>
+  <text x="292" y="148" textLength="540" lengthAdjust="spacingAndGlyphs" font-family="Playfair Display, Georgia, serif" font-size="78" font-weight="700" letter-spacing="4"><tspan fill="#0A0A0A">LEGACY</tspan><tspan fill="url(#g)" font-weight="400"> WORK</tspan></text>
   <line x1="292" y1="178" x2="870" y2="178" stroke="url(#g)" stroke-width="2"/>
   <text x="292" y="216" textLength="576" lengthAdjust="spacing" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#C9A227">BUILD · PROTECT · PASS IT ON</text>
 </svg>

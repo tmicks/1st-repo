@@ -1,6 +1,6 @@
 # The Legacy Blueprint: Marketing Kit
 
-**Brand:** Legacy Works · **Colors:** Black #0A0A0A · Gold #C9A227 · White #FFFFFF · **Fonts:** Playfair Display (headings), Montserrat (body)
+**Brand:** Legacy Work · **Colors:** Black #0A0A0A · Gold #C9A227 · White #FFFFFF · **Fonts:** Playfair Display (headings), Montserrat (body)
 **Tagline:** Wealth isn't built by accident. It's built by design.
 **Framework:** THINK · ESTABLISH · BUILD · OWN
 
@@ -74,7 +74,7 @@ The Legacy Blueprint: build it by design.
 
 Hi [Name],
 
-I'm reaching out from Legacy Works. We run The Legacy Blueprint, a financial education program covering money basics, banking, credit, housing readiness and entrepreneurship.
+I'm reaching out from Legacy Work. We run The Legacy Blueprint, a financial education program covering money basics, banking, credit, housing readiness and entrepreneurship.
 
 We're inviting a small number of partners to teach individual modules (for example, our Banking module) live on Zoom or in person. Participants receive program credit for attending, and your organization connects with motivated community members who are actively building their financial foundation.
 
@@ -84,4 +84,4 @@ Would you be open to a 20-minute call to explore teaching a module?
 
 Thank you,
 [Your name]
-Legacy Works
+Legacy Work
