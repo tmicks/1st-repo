@@ -1,7 +1,7 @@
 const { chromium } = require('playwright'); const fs=require('fs');
 const b64=f=>'data:image/png;base64,'+fs.readFileSync(f).toString('base64');
 const darkIcon=b64('icon-dark.png'), tIcon=b64('icon-transparent.png');
-const grad='background:linear-gradient(135deg,#EBCB6A,#C9A227 55%,#9C7A14);-webkit-background-clip:text;background-clip:text;color:transparent;';
+const grad='background:linear-gradient(135deg,#E6C75F,#C9A227 55%,#A88412);-webkit-background-clip:text;background-clip:text;color:transparent;';
 const font=`<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@600&display=swap" rel="stylesheet">`;
 const word=(dark,size)=>`<div style="font-family:'Playfair Display',Georgia,serif;font-size:${size}px;letter-spacing:4px;line-height:1"><span style="font-weight:700;color:${dark?'#fff':'#0A0A0A'}">LEGACY</span> <span style="font-weight:400;${grad}">WORK</span></div>`;
 const tag=(size)=>`<div style="font-family:Montserrat,Arial,sans-serif;font-weight:600;font-size:${size}px;letter-spacing:6px;color:#C9A227;margin-top:18px">GENERATIONS START HERE</div>`;
